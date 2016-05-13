@@ -2,7 +2,7 @@
     Common structure
 */
 body {
-    background: #eee;
+    background: #d8dbdd;
 }
 
 th {
@@ -14,9 +14,8 @@ th {
 }
 
 .side-nav.fixed .logo {
-    height: 150px;
-    background-color: #388E3C;
-    background-color: #2e7d32;
+    height: 128px;
+    background-color: #C74E24;
 }
 
 .side-nav.fixed.module-menu li.logo a {
@@ -126,7 +125,7 @@ ul.side-nav.fixed.module-menu li a {
 }
 
 ul.side-nav.module-menu .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-    background: #4CAF50;
+    background: #666666;
 }
 
 ul.side-nav.module-menu li a {
@@ -142,7 +141,7 @@ ul.side-nav.module-menu li.active>a>span.badge {
 }
 
 .side-nav.fixed .collapsible-body li.active.header {
-    background-color: #388E3C;
+    background-color: #c74e24;
     border-bottom: 1px solid #eee;
 }
 
